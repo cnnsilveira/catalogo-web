@@ -1,0 +1,2472 @@
+{
+  "collectedAt": "2026-10-09",
+  "products": [
+    {
+      "id": 290,
+      "name": "Anycubic Kobra X 4 Cores",
+      "category": "impressoras",
+      "brand": "Outros",
+      "reference": "TMX-0290",
+      "barcode": "2000000002903",
+      "priceCents": 449900,
+      "inStock": false,
+      "image": "imagens/290.jpg",
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 421,
+      "name": "Conjunto de Aquecimento Bambu Lab A1 mini",
+      "category": "acessorios",
+      "brand": "Bambu Lab",
+      "reference": "TMX-0421",
+      "barcode": "2000000004211",
+      "priceCents": 14990,
+      "inStock": true,
+      "image": "imagens/421.jpg",
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 516,
+      "name": "Creality Hyper PLA - Brown 1KG",
+      "category": "filamentos",
+      "brand": "Creality",
+      "reference": "TMX-0516",
+      "barcode": "7449463900022",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 515,
+      "name": "Creality Hyper PLA - Viva Magenta 1KG",
+      "category": "filamentos",
+      "brand": "Creality",
+      "reference": "TMX-0515",
+      "barcode": "7449463900015",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 523,
+      "name": "Elegoo PLA Matte - Black",
+      "category": "filamentos",
+      "brand": "Elegoo",
+      "reference": "TMX-0523",
+      "barcode": "7449463032808",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 335,
+      "name": "Elegoo PLA Matte - White 1KG",
+      "category": "filamentos",
+      "brand": "Elegoo",
+      "reference": "TMX-0335",
+      "barcode": "7449463032907",
+      "priceCents": 11990,
+      "inStock": false,
+      "image": "imagens/335.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 524,
+      "name": "Elegoo PLA Silk - Elegoo PLA Silk Mint Green",
+      "category": "filamentos",
+      "brand": "Elegoo",
+      "reference": "TMX-0524",
+      "barcode": "7449463033034",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 336,
+      "name": "Elegoo PLA White 1KG",
+      "category": "filamentos",
+      "brand": "Elegoo",
+      "reference": "TMX-0336",
+      "barcode": "7449463032754",
+      "priceCents": 11990,
+      "inStock": true,
+      "image": "imagens/336.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 525,
+      "name": "Elegoo Silk Copper 1KG",
+      "category": "filamentos",
+      "brand": "Elegoo",
+      "reference": "TMX-0525",
+      "barcode": "2000000005256",
+      "priceCents": 10999,
+      "inStock": true,
+      "image": null,
+      "material": null,
+      "colorFamilies": [
+        "Cobre"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 571,
+      "name": "FILAMENTO 3D - PLA PRETO C/ GLITTER ETIQUETA NEUTRA 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0571",
+      "barcode": "7908229110766",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 308,
+      "name": "Fulljoy PETG - Skin 1KG",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0308",
+      "barcode": "7893095832907",
+      "priceCents": 8990,
+      "inStock": false,
+      "image": "imagens/308.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 477,
+      "name": "Fulljoy PLA Silk - Duo Blue Green",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0477",
+      "barcode": "7893095833324",
+      "priceCents": 11990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul",
+        "Verde"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 376,
+      "name": "Fulljoy PLA+ - Flower Blue 1KG",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0376",
+      "barcode": "7449463067640",
+      "priceCents": 11000,
+      "inStock": true,
+      "image": "imagens/376.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 478,
+      "name": "Fulljoy PLA+ - Lemon Yellow 1KG",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0478",
+      "barcode": "7893095900033",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 365,
+      "name": "Fulljoy PLA+ - Mech Grey 1KG",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0365",
+      "barcode": "7893095833225",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/365.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Cinza"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 361,
+      "name": "Fulljoy PLA+ - Orange Yellow 1KG",
+      "category": "filamentos",
+      "brand": "Fulljoy",
+      "reference": "TMX-0361",
+      "barcode": "7449463035878",
+      "priceCents": 11000,
+      "inStock": false,
+      "image": "imagens/361.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo",
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 309,
+      "name": "Fusionx Petg - Ocean Blue 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0309",
+      "barcode": "7449463067305",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/309.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 313,
+      "name": "Fusionx Petg - Preto 1,2kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0313",
+      "barcode": "7893095833751",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": "imagens/313.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 1200
+    },
+    {
+      "id": 310,
+      "name": "Fusionx Petg - Sea Orchid 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0310",
+      "barcode": "7449463067299",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/310.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 311,
+      "name": "Fusionx Petg - Strawberry Milkshake 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0311",
+      "barcode": "7449463034161",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/311.jpg",
+      "material": "PETG",
+      "colorFamilies": [],
+      "weightGrams": 1000
+    },
+    {
+      "id": 517,
+      "name": "Fusionx Petg 1kg - Chinese Red",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0517",
+      "barcode": "7449463040056",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": null,
+      "material": "PETG",
+      "colorFamilies": [
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 324,
+      "name": "Fusionx PLA High Speed - Jade White 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0324",
+      "barcode": "7449737006818",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/324.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 509,
+      "name": "Fusionx PLA High Speed - Pistachio Green 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0509",
+      "barcode": "7449463065998",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/509.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 326,
+      "name": "Fusionx PLA High Speed - Sea Green 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0326",
+      "barcode": "7449463066032",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/326.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 373,
+      "name": "Fusionx PLA High Speed 1kg - Glowing Purple",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0373",
+      "barcode": "7449463065745",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/373.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 374,
+      "name": "Fusionx PLA High Speed 1kg - Grape Purple",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0374",
+      "barcode": "7449463065752",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/374.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 370,
+      "name": "Fusionx PLA High Speed 1kg - Jade Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0370",
+      "barcode": "7449463065783",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/370.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 372,
+      "name": "Fusionx PLA High Speed 1kg - Lavander Rose",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0372",
+      "barcode": "7449463065790",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/372.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa",
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 363,
+      "name": "Fusionx PLA High Speed 1kg - Lemon Ice",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0363",
+      "barcode": "7449463065806",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/363.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 514,
+      "name": "Fusionx PLA High Speed 1kg - Off White",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0514",
+      "barcode": "7449463065868",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/514.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 360,
+      "name": "Fusionx PLA High Speed 1kg - Orange Pumpkin (Abobora)",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0360",
+      "barcode": "7449463035106",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/360.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 375,
+      "name": "Fusionx PLA High Speed 1kg - Pastel Purple",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0375",
+      "barcode": "7449463065899",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/375.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 371,
+      "name": "Fusionx PLA High Speed 1kg - Pastel Violet",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0371",
+      "barcode": "7449463065905",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/371.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 359,
+      "name": "Fusionx PLA High Speed 1kg - Pearl Skin",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0359",
+      "barcode": "7449463065929",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/359.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 480,
+      "name": "Fusionx PLA High Speed 1kg - Yellow",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0480",
+      "barcode": "7449463066131",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/480.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 378,
+      "name": "Fusionx PLA High Speed 500g - Absolute Black 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0378",
+      "barcode": "7449737007341",
+      "priceCents": 6990,
+      "inStock": false,
+      "image": "imagens/378.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 353,
+      "name": "Fusionx PLA High Speed 500g - Artic Blue 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0353",
+      "barcode": "7449737006764",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/353.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 357,
+      "name": "Fusionx PLA High Speed 500g - Bordeaux Purple 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0357",
+      "barcode": "7449737006702",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/357.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 350,
+      "name": "Fusionx PLA High Speed 500g - Coccinellin 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0350",
+      "barcode": "2000000003504",
+      "priceCents": 6990,
+      "inStock": false,
+      "image": "imagens/350.jpg",
+      "material": "PLA",
+      "colorFamilies": [],
+      "weightGrams": 500
+    },
+    {
+      "id": 469,
+      "name": "Fusionx PLA High Speed 500g - Grape Purple 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0469",
+      "barcode": "7449737007556",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 473,
+      "name": "Fusionx PLA High Speed 500g - Hibiscus 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0473",
+      "barcode": "7449737006894",
+      "priceCents": 6990,
+      "inStock": false,
+      "image": "imagens/473.jpg",
+      "material": "PLA",
+      "colorFamilies": [],
+      "weightGrams": 500
+    },
+    {
+      "id": 493,
+      "name": "Fusionx PLA High Speed 500g - Lavander Rose 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0493",
+      "barcode": "7449737007471",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa",
+        "Roxo"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 354,
+      "name": "Fusionx PLA High Speed 500g - Lime Green 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0354",
+      "barcode": "7449737007532",
+      "priceCents": 6990,
+      "inStock": false,
+      "image": "imagens/354.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 470,
+      "name": "Fusionx PLA High Speed 500g - Neon Pink 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0470",
+      "barcode": "7449737007327",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 468,
+      "name": "Fusionx PLA High Speed 500g - Saphire Blue 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0468",
+      "barcode": "7449737006870",
+      "priceCents": 6990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 476,
+      "name": "Fusionx PLA Matte 1kg - Absolute Black 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0476",
+      "barcode": "7449463033454",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/476.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 486,
+      "name": "Fusionx PLA Matte 1kg - Artic Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0486",
+      "barcode": "7449463041459",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 487,
+      "name": "Fusionx PLA Matte 1kg - Aurora Green",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0487",
+      "barcode": "7449463065509",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 482,
+      "name": "Fusionx PLA Matte 1kg - Cyan Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0482",
+      "barcode": "7449463040308",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 485,
+      "name": "Fusionx PLA Matte 1kg - Jade Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0485",
+      "barcode": "7449463035281",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 521,
+      "name": "Fusionx PLA Matte 1kg - Neon Azure Blue 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0521",
+      "barcode": "7449737034477",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 508,
+      "name": "Fusionx PLA Matte 1kg - ORANGE PUMPKIN",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0508",
+      "barcode": "2000000004488",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 513,
+      "name": "Fusionx PLA Matte 1kg - Saphire Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0513",
+      "barcode": "7449463033669",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 367,
+      "name": "Fusionx PLA Matte 1kg - Satin Acai 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0367",
+      "barcode": "7449737034330",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/367.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 366,
+      "name": "Fusionx PLA Matte 1kg - Satin Magenta 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0366",
+      "barcode": "7449737034316",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/366.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 511,
+      "name": "Fusionx PLA Matte 1kg - Satin Tiffany Green 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0511",
+      "barcode": "7449737034415",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 512,
+      "name": "Fusionx PLA Matte 1kg - Satin Verde Matcha",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0512",
+      "barcode": "7449737017609",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 368,
+      "name": "Fusionx PLA Matte 1kg - Satin Wine Purple 1kg",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0368",
+      "barcode": "7449737034323",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/368.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 369,
+      "name": "Fusionx PLA Matte 1kg - Sky Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0369",
+      "barcode": "7449463033690",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/369.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 488,
+      "name": "Fusionx PLA Matte 1kg - Turquoise Blue",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0488",
+      "barcode": "7449463041442",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 510,
+      "name": "Fusionx PLA Matte 1kg - Verde Oliva",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0510",
+      "barcode": "7449463065189",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 474,
+      "name": "Fusionx PLA Matte 250g - Moucha Mousse 250g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0474",
+      "barcode": "7449737006443",
+      "priceCents": 3990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 250
+    },
+    {
+      "id": 475,
+      "name": "Fusionx PLA Matte 250g - Strawberry Milkshake 250g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0475",
+      "barcode": "2000000004471",
+      "priceCents": 3990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [],
+      "weightGrams": 250
+    },
+    {
+      "id": 351,
+      "name": "Fusionx PLA Matte 500g - Matte Purple 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0351",
+      "barcode": "2000000003511",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/351.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 356,
+      "name": "Fusionx PLA Matte 500g - Pastel Purple 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0356",
+      "barcode": "7449737005941",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/356.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 355,
+      "name": "Fusionx PLA Matte 500g - Vivid Red 500g",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0355",
+      "barcode": "7449737006153",
+      "priceCents": 6990,
+      "inStock": true,
+      "image": "imagens/355.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Vermelho"
+      ],
+      "weightGrams": 500
+    },
+    {
+      "id": 479,
+      "name": "Fusionx PLA Ultra Silk - Amarelo Neon 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0479",
+      "barcode": "7449463900077",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 481,
+      "name": "Fusionx PLA Ultra Silk - Azul Claro 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0481",
+      "barcode": "7449463900121",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 362,
+      "name": "Fusionx PLA Ultra Silk - Bright Gold 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0362",
+      "barcode": "7449463003679",
+      "priceCents": 11000,
+      "inStock": false,
+      "image": "imagens/362.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 566,
+      "name": "Fusionx PLA Ultra Silk - Bronze 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0566",
+      "barcode": "7449463900152",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Bronze"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 520,
+      "name": "Fusionx PLA Ultra Silk - Fusionx PLA Ultra Silk Azul Celeste",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0520",
+      "barcode": "7449463003594",
+      "priceCents": 11000,
+      "inStock": true,
+      "image": "imagens/520.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 518,
+      "name": "Fusionx PLA Ultra Silk - Fusionx PLA Ultra Silk Dark Gold",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0518",
+      "barcode": "7449463003662",
+      "priceCents": 11000,
+      "inStock": false,
+      "image": "imagens/518.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 364,
+      "name": "Fusionx PLA Ultra Silk - Light Purple 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0364",
+      "barcode": "7449463003686",
+      "priceCents": 11000,
+      "inStock": false,
+      "image": "imagens/364.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 489,
+      "name": "Fusionx PLA Ultra Silk - Rosa Claro 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0489",
+      "barcode": "7449463900114",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 494,
+      "name": "Fusionx PLA Ultra Silk - Rosa Neon 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0494",
+      "barcode": "7449463900053",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 519,
+      "name": "Fusionx PLA Ultra Silk - Verde Neon 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0519",
+      "barcode": "7449463900084",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 490,
+      "name": "Fusionx PLA Ultra Silk - Vermelho 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0490",
+      "barcode": "7449463900039",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 499,
+      "name": "Fusionx PLA Utra Silk - Rosa Salmao 1KG",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0499",
+      "barcode": "2000000004983",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 484,
+      "name": "Fusionx PLA Utra Silk - Cyan",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0484",
+      "barcode": "2000000004839",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 492,
+      "name": "Fusionx PLA Utra Silk Light Purple",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0492",
+      "barcode": "2000000004914",
+      "priceCents": 10990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": null
+    },
+    {
+      "id": 337,
+      "name": "Impressora 3D Bambu Lab A1 Sem Combo",
+      "category": "impressoras",
+      "brand": "Bambu Lab",
+      "reference": "TMX-0337",
+      "barcode": "2000000003375",
+      "priceCents": 329900,
+      "inStock": false,
+      "image": "imagens/337.jpg",
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 338,
+      "name": "Impressora Máquina 3D Bambu Lab A1 COMBO AMS Completo",
+      "category": "impressoras",
+      "brand": "Bambu Lab",
+      "reference": "TMX-0338",
+      "barcode": "2000000003382",
+      "priceCents": 484900,
+      "inStock": false,
+      "image": "imagens/338.jpg",
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 339,
+      "name": "Impressora Máquina 3D Bambu Lab A1 Mini Sem Combo",
+      "category": "impressoras",
+      "brand": "Bambu Lab",
+      "reference": "TMX-0339",
+      "barcode": "2000000003399",
+      "priceCents": 224900,
+      "inStock": false,
+      "image": "imagens/339.jpg",
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 576,
+      "name": "Impressora Maquina 3D Bambu LAB A2L",
+      "category": "impressoras",
+      "brand": "Bambu Lab",
+      "reference": "TMX-0576",
+      "barcode": "2000000005768",
+      "priceCents": 0,
+      "inStock": false,
+      "image": null,
+      "material": null,
+      "colorFamilies": [],
+      "weightGrams": null
+    },
+    {
+      "id": 396,
+      "name": "Masterprint PETG Dourado - 1KG",
+      "category": "filamentos",
+      "brand": "Masterprint",
+      "reference": "TMX-0396",
+      "barcode": "7908229110582",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/396.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 545,
+      "name": "MP - Filamento 3D - PETG FLOURECENTE ROXO 1KG (1.75 MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0545",
+      "barcode": "2000000005300",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": null,
+      "material": "PETG",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 405,
+      "name": "MP - Filamento 3D - PLA Dragon Fruit -1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0405",
+      "barcode": "7908229110469",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/405.jpg",
+      "material": "PLA",
+      "colorFamilies": [],
+      "weightGrams": 1000
+    },
+    {
+      "id": 572,
+      "name": "MP - FILAMENTO 3D - PLA DREAMY CRYSTAL PRETO/VERMELHO 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0572",
+      "barcode": "2000000005706",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto",
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 403,
+      "name": "MP - Filamento 3D - PLA Fosco Azul Artico - 1KG - (1.75mm)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0403",
+      "barcode": "7908229108961",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/403.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 539,
+      "name": "MP - FILAMENTO 3D - PLA FOSCO SAKURA 1KG (1.75 MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0539",
+      "barcode": "2000000005348",
+      "priceCents": 9999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [],
+      "weightGrams": 1000
+    },
+    {
+      "id": 536,
+      "name": "MP - FILAMENTO 3D - PLA FOSCO VERMELHO 1KG (1.75 MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0536",
+      "barcode": "2000000005331",
+      "priceCents": 9999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 548,
+      "name": "MP - FILAMENTO 3D - PLA MARROM 1KG (1.75 MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0548",
+      "barcode": "2000000005317",
+      "priceCents": 9999,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 419,
+      "name": "MP - filamento 3D - PLA Preto - 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0419",
+      "barcode": "7908229103669",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/419.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 538,
+      "name": "MP - FILAMENTO 3D - PLA ROSA CLARO 1KG (1.75 MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0538",
+      "barcode": "2000000005324",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 537,
+      "name": "MP - FILAMENTO 3D - PLA SILK AZUL 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0537",
+      "barcode": "2000000005263",
+      "priceCents": 10999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 543,
+      "name": "MP - FILAMENTO 3D - PLA SILK AZUL/VERMELHO 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0543",
+      "barcode": "2000000005294",
+      "priceCents": 11999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul",
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 541,
+      "name": "MP - FILAMENTO 3D - PLA SILK LARANJA/PRETO 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0541",
+      "barcode": "2000000005287",
+      "priceCents": 11999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Preto",
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 542,
+      "name": "MP - FILAMENTO 3D - PLA SILK ROXO 1KG (1,75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0542",
+      "barcode": "2000000005270",
+      "priceCents": 10999,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 561,
+      "name": "MP-FILAMENTO 3D - PETG AMARELO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0561",
+      "barcode": "7908229108152",
+      "priceCents": 7990,
+      "inStock": true,
+      "image": "imagens/561.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 546,
+      "name": "MP-FILAMENTO 3D - PETG AZUL 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0546",
+      "barcode": "2000000002699",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/546.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 303,
+      "name": "MP-FILAMENTO 3D - PETG BRANCO - 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0303",
+      "barcode": "7908229103737",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/303.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 306,
+      "name": "MP-FILAMENTO 3D - PETG BRANCO 3KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0306",
+      "barcode": "7908229110063",
+      "priceCents": 24990,
+      "inStock": true,
+      "image": "imagens/306.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 3000
+    },
+    {
+      "id": 297,
+      "name": "MP-FILAMENTO 3D - PETG BRONZE 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0297",
+      "barcode": "7908229109876",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/297.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Bronze"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 298,
+      "name": "MP-FILAMENTO 3D - PETG CINZA 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0298",
+      "barcode": "7908229108145",
+      "priceCents": 7990,
+      "inStock": true,
+      "image": "imagens/298.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Cinza"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 299,
+      "name": "MP-FILAMENTO 3D - PETG COOL GREY 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0299",
+      "barcode": "7908229112166",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": null,
+      "material": "PETG",
+      "colorFamilies": [
+        "Cinza"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 304,
+      "name": "MP-FILAMENTO 3D - PETG GREEN OLIVE 1KG (1.75mm)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0304",
+      "barcode": "7908229112173",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": null,
+      "material": "PETG",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 294,
+      "name": "MP-FILAMENTO 3D - PETG LAVANDA 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0294",
+      "barcode": "7908229109852",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/294.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 559,
+      "name": "MP-FILAMENTO 3D - PETG MADEIRA - 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0559",
+      "barcode": "7908229108190",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/559.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 301,
+      "name": "MP-FILAMENTO 3D - PETG MARROM 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0301",
+      "barcode": "7908229108169",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/301.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 547,
+      "name": "MP-FILAMENTO 3D - PETG PRATA 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0547",
+      "barcode": "7908229105892",
+      "priceCents": 7990,
+      "inStock": true,
+      "image": "imagens/547.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Prata"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 345,
+      "name": "MP-FILAMENTO 3D - PETG PRETO - 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0345",
+      "barcode": "7908229103720",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/345.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 307,
+      "name": "MP-FILAMENTO 3D - PETG PRETO - 3KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0307",
+      "barcode": "7908229110056",
+      "priceCents": 24990,
+      "inStock": false,
+      "image": "imagens/307.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 3000
+    },
+    {
+      "id": 401,
+      "name": "MP-FILAMENTO 3D - PETG PRETO 3KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0401",
+      "barcode": "2000000004013",
+      "priceCents": 24990,
+      "inStock": true,
+      "image": "imagens/401.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Preto"
+      ],
+      "weightGrams": 3000
+    },
+    {
+      "id": 560,
+      "name": "MP-FILAMENTO 3D - PETG ROSA 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0560",
+      "barcode": "7908229105885",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/560.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 302,
+      "name": "MP-FILAMENTO 3D - PETG ROXO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0302",
+      "barcode": "7908229110810",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/302.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 291,
+      "name": "MP-FILAMENTO 3D - PETG SKIN 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0291",
+      "barcode": "7908229108183",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/291.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 377,
+      "name": "MP-FILAMENTO 3D - PETG TRANSLUCIDO AMARELO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0377",
+      "barcode": "7908229103843",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/377.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 292,
+      "name": "MP-FILAMENTO 3D - PETG TRANSLUCIDO AZUL 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0292",
+      "barcode": "7908229105861",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/292.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 347,
+      "name": "MP-FILAMENTO 3D - PETG TRANSLUCIDO VERDE 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0347",
+      "barcode": "7908229110803",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/347.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 293,
+      "name": "MP-FILAMENTO 3D - PETG TRANSLUCIDO VERMELHO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0293",
+      "barcode": "7908229105878",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/293.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Vermelho"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 305,
+      "name": "MP-FILAMENTO 3D - PETG TRANSPARENTE 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0305",
+      "barcode": "7908229108138",
+      "priceCents": 8990,
+      "inStock": true,
+      "image": "imagens/305.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Transparente"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 328,
+      "name": "MP-FILAMENTO 3D - PLA (CREME) ICE CREAM 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0328",
+      "barcode": "7908229110186",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/328.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 341,
+      "name": "MP-FILAMENTO 3D - PLA AZUL C/GLITTER - ROLO 1KG (1.75MM) ETIQ. NEUTRA DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0341",
+      "barcode": "7908229112227",
+      "priceCents": 10490,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 329,
+      "name": "MP-FILAMENTO 3D - PLA BRANCO - 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0329",
+      "barcode": "7908229103676",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/329.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Branco"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 314,
+      "name": "MP-FILAMENTO 3D - PLA COR DESERTO 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0314",
+      "barcode": "7908229110193",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/314.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 330,
+      "name": "MP-FILAMENTO 3D - PLA DOURADO - 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0330",
+      "barcode": "7908229103799",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/330.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 343,
+      "name": "MP-FILAMENTO 3D - PLA FOSCO BLEACHED APRICOT 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0343",
+      "barcode": "7908229112135",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 575,
+      "name": "MP-FILAMENTO 3D - PLA FOSCO LARANJA NASCER DO SOL 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0575",
+      "barcode": "2000000005751",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 344,
+      "name": "MP-FILAMENTO 3D - PLA FOSCO LEMON MERINGUE 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0344",
+      "barcode": "7908229112128",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": "imagens/344.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 342,
+      "name": "MP-FILAMENTO 3D - PLA FOSCO WINSOME ORCHID 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0342",
+      "barcode": "7908229112142",
+      "priceCents": 10490,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 568,
+      "name": "MP-FILAMENTO 3D - PLA FOSFORESCENTE NATURAL/RAINBOW 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0568",
+      "barcode": "2000000002057",
+      "priceCents": 11990,
+      "inStock": true,
+      "image": "imagens/568.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Natural",
+        "Multicolorido"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 567,
+      "name": "MP-FILAMENTO 3D - PLA FOSFORESCENTE NATURAL/VERDE 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0567",
+      "barcode": "7908229109647",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde",
+        "Natural"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 418,
+      "name": "MP-FILAMENTO 3D - PLA MADEIRA ESCURA 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0418",
+      "barcode": "7908229109814",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/418.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 316,
+      "name": "MP-FILAMENTO 3D - PLA MARROM 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0316",
+      "barcode": "7908229109623",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/316.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Marrom"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 540,
+      "name": "MP-FILAMENTO 3D - PLA PRATA - 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0540",
+      "barcode": "7908229105922",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/540.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Prata"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 331,
+      "name": "MP-FILAMENTO 3D - PLA RAINBOW - 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0331",
+      "barcode": "7908229105939",
+      "priceCents": 10490,
+      "inStock": false,
+      "image": "imagens/331.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Multicolorido"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 317,
+      "name": "MP-FILAMENTO 3D - PLA ROSA - 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0317",
+      "barcode": "7908229105915",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/317.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 318,
+      "name": "MP-FILAMENTO 3D - PLA ROXO C/ GLITTER 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0318",
+      "barcode": "7908229110759",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": "imagens/318.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 573,
+      "name": "MP-FILAMENTO 3D - PLA ROXO CLARO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0573",
+      "barcode": "7908229109630",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 564,
+      "name": "MP-FILAMENTO 3D - PLA SILK AZUL AZURE 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0564",
+      "barcode": "7908229110292",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 563,
+      "name": "MP-FILAMENTO 3D - PLA SILK AZUL LAGO 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0563",
+      "barcode": "7908229110278",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 562,
+      "name": "MP-FILAMENTO 3D - PLA SILK AZUL TIFFANY 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0562",
+      "barcode": "2000000002033",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": "imagens/562.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Azul"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 320,
+      "name": "MP-FILAMENTO 3D - PLA SILK DOURADO 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0320",
+      "barcode": "7908229110513",
+      "priceCents": 11000,
+      "inStock": true,
+      "image": "imagens/320.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 565,
+      "name": "MP-FILAMENTO 3D - PLA SILK LAVANDA 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0565",
+      "barcode": "2000000001968",
+      "priceCents": 10490,
+      "inStock": true,
+      "image": "imagens/565.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Roxo"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 544,
+      "name": "MP-FILAMENTO 3D - PLA SILK RAINBOW - 1KG (1.75MM) DER 4",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0544",
+      "barcode": "2000000001920",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": "imagens/544.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Multicolorido"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 569,
+      "name": "MP-FILAMENTO 3D - PLA SILK ROSA 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0569",
+      "barcode": "7908229109661",
+      "priceCents": 10990,
+      "inStock": true,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 321,
+      "name": "MP-FILAMENTO 3D - PLA SILK VERDE - 1KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0321",
+      "barcode": "7908229105953",
+      "priceCents": 10490,
+      "inStock": false,
+      "image": "imagens/321.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 322,
+      "name": "MP-FILAMENTO 3D - PLA VERDE - 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0322",
+      "barcode": "7908229103713",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/322.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 333,
+      "name": "MP-FILAMENTO 3D - PLA VERDE BAMBU 1 KG",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0333",
+      "barcode": "7908229110209",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": "imagens/333.jpg",
+      "material": "PLA",
+      "colorFamilies": [
+        "Verde"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 295,
+      "name": "MP-FILAMENTO 3D -PETG FOSFORESCENTE RAINBOW 1KG (1.75MM)",
+      "category": "filamentos",
+      "brand": "Outros",
+      "reference": "TMX-0295",
+      "barcode": "7908229108794",
+      "priceCents": 9990,
+      "inStock": true,
+      "image": "imagens/295.jpg",
+      "material": "PETG",
+      "colorFamilies": [
+        "Multicolorido"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 501,
+      "name": "PLA 1kg FusionX Dark Gold Silk",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0501",
+      "barcode": "2000000005003",
+      "priceCents": 10999,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 497,
+      "name": "PLA 1kg FusionX Matt Neon Pink",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0497",
+      "barcode": "2000000004969",
+      "priceCents": 9990,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 507,
+      "name": "PLA 1kg FusionX Orange Silk",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0507",
+      "barcode": "2000000005065",
+      "priceCents": 10999,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 505,
+      "name": "PLA 1kg FusionX Orange Yellow",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0505",
+      "barcode": "2000000005041",
+      "priceCents": 10999,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Amarelo",
+        "Laranja"
+      ],
+      "weightGrams": 1000
+    },
+    {
+      "id": 503,
+      "name": "PLA 1kg FusionX Pink Gold",
+      "category": "filamentos",
+      "brand": "Fusionx",
+      "reference": "TMX-0503",
+      "barcode": "2000000005027",
+      "priceCents": 11999,
+      "inStock": false,
+      "image": null,
+      "material": "PLA",
+      "colorFamilies": [
+        "Rosa",
+        "Dourado"
+      ],
+      "weightGrams": 1000
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Catálogo de filamentos, impressoras 3D e acessórios da Triomax Joinville.">
+  <title>Catálogo de produtos — Triomax Joinville</title>
+  <link rel="icon" type="image/svg+xml" href="imagens/triomax-mark.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.mjs"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <div class="brand" aria-label="Triomax">
+        <img class="brand-mark" src="imagens/triomax-mark.svg" alt="" width="36" height="36">
+        <img class="brand-wordmark" src="imagens/triomax-wordmark.svg" alt="Triomax" width="142" height="28">
+      </div>
+      <span class="location">Joinville, SC</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="intro">
+      <p class="eyebrow">TRIOMAX JOINVILLE</p>
+      <h1>Catálogo de produtos</h1>
+      <p class="intro-copy">Filamentos, impressoras 3D e acessórios da unidade de Joinville.</p>
+    </div>
+
+    <nav class="tabs" role="tablist" aria-label="Categorias de produtos">
+      <button type="button" class="tab" role="tab" id="tab-filamentos" aria-selected="true" aria-controls="catalog-panel" data-category="filamentos">Filamentos <span class="tab-count" id="count-filamentos"></span></button>
+      <button type="button" class="tab" role="tab" id="tab-impressoras" aria-selected="false" aria-controls="catalog-panel" tabindex="-1" data-category="impressoras">Impressoras <span class="tab-count" id="count-impressoras"></span></button>
+      <button type="button" class="tab" role="tab" id="tab-acessorios" aria-selected="false" aria-controls="catalog-panel" tabindex="-1" data-category="acessorios">Acessórios <span class="tab-count" id="count-acessorios"></span></button>
+    </nav>
+
+    <section id="catalog-panel" role="tabpanel" aria-labelledby="tab-filamentos" tabindex="0">
+      <details class="filters" id="filters" open>
+        <summary>Filtros <span class="filter-summary" id="active-filter-count"></span><span class="chevron" aria-hidden="true"></span></summary>
+        <div class="filter-body">
+          <div class="filter-fields" id="filter-fields"></div>
+          <div class="filter-actions">
+            <label class="availability"><input type="checkbox" id="hide-sold-out"> <span>Esconder esgotados</span></label>
+            <button type="button" class="clear-filters" id="clear-filters">Limpar filtros</button>
+          </div>
+        </div>
+      </details>
+
+      <div class="results-line"><span id="results-count" aria-live="polite"></span></div>
+      <div class="product-grid" id="products"><p class="loading">Carregando produtos…</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>Triomax Joinville</span>
+      <span id="snapshot-date"></span>
+    </div>
+  </footer>
+
+  <dialog class="image-dialog" id="image-dialog" aria-labelledby="image-dialog-title">
+    <div class="image-dialog-inner">
+      <button type="button" class="dialog-close" id="dialog-close" aria-label="Fechar imagem">×</button>
+      <img id="dialog-image" alt="">
+      <p id="image-dialog-title"></p>
+    </div>
+  </dialog>
+</body>
+</html>
